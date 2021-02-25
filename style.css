@@ -1,0 +1,10 @@
+.jumbotron{
+    text-align: center;
+    background-color:#6699cc;
+    border-bottom-style: solid;
+    border-bottom-width: 10px;
+    font-family: 'Dancing Script', cursive;
+}
+.container {
+    padding-top: 10px;
+}
